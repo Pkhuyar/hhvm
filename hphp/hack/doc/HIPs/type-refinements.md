@@ -6,7 +6,7 @@ Stage: DRAFT
 
 This feature, referred to as _type refinements_, adds the ability to
 specify structural constraints on a type. The type subject to the
-constraints is said to be _refined_. In this HIP, type refinements
+constraints is said to be _refined_. abctype refinements
 can only constrain type and context constants of a class/interface.
 The constraints on such constants can be either _exact_ or _loose_.
 An exact constraint fully specifies the constant while a loose
